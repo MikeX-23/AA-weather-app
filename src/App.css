@@ -120,7 +120,8 @@ body {
 
     .one-fourth {
         bottom: 140px;
-        width: 23%;
+        width: 99%;
+        transform: translateY(-27px)
     }
 }
 
@@ -162,8 +163,8 @@ body {
     }
 
     .one-fourth {
-        bottom: 140px;
-        width: 22%;
+        bottom: 130px;
+        width: 99%;
     }
 
     .day {
